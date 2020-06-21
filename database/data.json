@@ -1,6 +1,26 @@
 [
-    {
-        "name" : "Ihsan",
-        "umur" : 23
-    }
+  {
+    "id": 1,
+    "note": "Belajar",
+    "status": "2020-06-21T15:06:36.860Z",
+    "priority": "urgent"
+  },
+  {
+    "id": 2,
+    "note": "Makan",
+    "status": "2020-06-21T15:06:32.055Z",
+    "priority": "later"
+  },
+  {
+    "id": 3,
+    "note": "Mandi",
+    "status": null,
+    "priority": "additional"
+  },
+  {
+    "id": 4,
+    "note": "Belajar sambil ngaji",
+    "status": null,
+    "priority": "urgent"
+  }
 ]
