@@ -12,8 +12,31 @@ class View {
         `);
     }
 
-    static print() {
-        console.log();
+    static printList(todo) {
+        console.log(todo);
+    }
+
+    static print(todo) {
+        console.log(todo);
+        console.log(`Success`);
+    }
+
+    static find(todo) {
+        console.log(todo);
+        console.log(`Success`);
+    }
+
+    static delete(todo) {
+        console.log(todo);
+        console.log(`Success`);
+    }
+
+    static complete() {
+        console.log(`Success to Check todo!`);
+    }
+
+    static uncomplete() {
+        console.log(`Success to unCheck todo!`);
     }
 }
 
